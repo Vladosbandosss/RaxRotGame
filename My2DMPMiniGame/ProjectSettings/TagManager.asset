@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Player2
+  - Knife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2702134917
+    locked: 0
+  - name: Ground
+    uniqueID: 751156515
+    locked: 0
+  - name: Player
+    uniqueID: 4259728223
+    locked: 0
+  - name: Weapon
+    uniqueID: 4001710663
+    locked: 0
+  - name: FX
+    uniqueID: 1681864789
+    locked: 0
+  - name: UI
+    uniqueID: 619669909
+    locked: 0
